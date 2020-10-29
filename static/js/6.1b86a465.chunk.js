@@ -1,0 +1,2 @@
+(this.webpackJsonpBrightTech=this.webpackJsonpBrightTech||[]).push([[6],{54:function(e,t,c){"use strict";c.r(t);var h=c(0),n=c.n(h);t.default=function(){return n.a.createElement("h1",{className:"title-logandreg"},"\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u0434\u043b\u044f BrightTech")}}}]);
+//# sourceMappingURL=6.1b86a465.chunk.js.map

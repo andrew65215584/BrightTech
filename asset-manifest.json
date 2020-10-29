@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BrightTech/static/css/main.cd8d7fb2.chunk.css",
+    "main.js": "/BrightTech/static/js/main.352ef55c.chunk.js",
+    "main.js.map": "/BrightTech/static/js/main.352ef55c.chunk.js.map",
+    "runtime-main.js": "/BrightTech/static/js/runtime-main.d80a0749.js",
+    "runtime-main.js.map": "/BrightTech/static/js/runtime-main.d80a0749.js.map",
+    "static/js/2.f91ad8f4.chunk.js": "/BrightTech/static/js/2.f91ad8f4.chunk.js",
+    "static/js/2.f91ad8f4.chunk.js.map": "/BrightTech/static/js/2.f91ad8f4.chunk.js.map",
+    "static/css/3.157088a0.chunk.css": "/BrightTech/static/css/3.157088a0.chunk.css",
+    "static/js/3.ef9d13bb.chunk.js": "/BrightTech/static/js/3.ef9d13bb.chunk.js",
+    "static/js/3.ef9d13bb.chunk.js.map": "/BrightTech/static/js/3.ef9d13bb.chunk.js.map",
+    "static/css/4.30125fe2.chunk.css": "/BrightTech/static/css/4.30125fe2.chunk.css",
+    "static/js/4.6f613685.chunk.js": "/BrightTech/static/js/4.6f613685.chunk.js",
+    "static/js/4.6f613685.chunk.js.map": "/BrightTech/static/js/4.6f613685.chunk.js.map",
+    "static/css/5.ea0c0e54.chunk.css": "/BrightTech/static/css/5.ea0c0e54.chunk.css",
+    "static/js/5.a6659eff.chunk.js": "/BrightTech/static/js/5.a6659eff.chunk.js",
+    "static/js/5.a6659eff.chunk.js.map": "/BrightTech/static/js/5.a6659eff.chunk.js.map",
+    "static/js/6.1b86a465.chunk.js": "/BrightTech/static/js/6.1b86a465.chunk.js",
+    "static/js/6.1b86a465.chunk.js.map": "/BrightTech/static/js/6.1b86a465.chunk.js.map",
+    "index.html": "/BrightTech/index.html",
+    "precache-manifest.dc61a4f56e76620db525bf38621ad7b9.js": "/BrightTech/precache-manifest.dc61a4f56e76620db525bf38621ad7b9.js",
+    "service-worker.js": "/BrightTech/service-worker.js",
+    "static/css/3.157088a0.chunk.css.map": "/BrightTech/static/css/3.157088a0.chunk.css.map",
+    "static/css/4.30125fe2.chunk.css.map": "/BrightTech/static/css/4.30125fe2.chunk.css.map",
+    "static/css/5.ea0c0e54.chunk.css.map": "/BrightTech/static/css/5.ea0c0e54.chunk.css.map",
+    "static/css/main.cd8d7fb2.chunk.css.map": "/BrightTech/static/css/main.cd8d7fb2.chunk.css.map",
+    "static/js/2.f91ad8f4.chunk.js.LICENSE.txt": "/BrightTech/static/js/2.f91ad8f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d80a0749.js",
+    "static/js/2.f91ad8f4.chunk.js",
+    "static/css/main.cd8d7fb2.chunk.css",
+    "static/js/main.352ef55c.chunk.js"
+  ]
+}
