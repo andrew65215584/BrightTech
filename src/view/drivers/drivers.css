@@ -1,0 +1,35 @@
+.drivers-list{
+    list-style: none;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px;
+    outline: 2px solid black;
+}
+
+.drivers-title{
+    text-align: center;
+}
+
+.search-input{
+ 
+    margin: 60px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.search-input > input {
+    margin: 0 20px;
+}
+
+
+.drivers-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.drivers-item:nth-child(2n){
+    background-color: grey;
+    color: white;
+}
